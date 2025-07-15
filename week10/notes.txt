@@ -1,0 +1,5 @@
+EOA : externally owned account
+
+nonce : number of transactions 
+
+ 
